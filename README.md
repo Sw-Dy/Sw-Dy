@@ -44,10 +44,7 @@
   </p>
   <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="300">
   <br><br>
-  🎮 **Play a Game Below!**
-  <br>
-  <a href="https://swagnik-game.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Click_to_Play-brightgreen?style=for-the-badge">
+ 
   </a>
 </div>
 
