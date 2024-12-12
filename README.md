@@ -43,6 +43,12 @@
     🌌 Did You Know? Over 70% of trades in the U.S. are executed by **AI-powered algorithms**!
   </p>
   <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="300">
+  <br><br>
+  🎮 **Play a Game Below!**
+  <br>
+  <a href="https://swagnik-game.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Click_to_Play-brightgreen?style=for-the-badge">
+  </a>
 </div>
 
 ---
@@ -71,12 +77,11 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <p>
-    🚨  <a href="https://github.com/anuraghazra/github-readme-stats">here</a>.
-  </p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagnikdey&theme=radical" alt="GitHub Streak Stats">
+  <h3>📈 Overall GitHub Activity</h3>
+  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sw-Dy" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagnikdey&theme=radical" alt="GitHub Profile Details">
+  <h3>📚 Language Usage</h3>
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sw-Dy&layout=pie" />
 </div>
 
 ---
