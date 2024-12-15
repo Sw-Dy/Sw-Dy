@@ -88,6 +88,7 @@
   <ul>
     <li>💼 <b>Career Counseling Platform:</b> AI-driven career guidance tailored to student needs</li>
     <li>📝 <b>Resume Analyzer:</b> Intelligent tool for improving resumes</li>
+    <li>📚 <b>Protraq : An Exam Proctoring tool</li>
     <li>📚 <b>BookHub App:</b> Mobile app for organizing and sharing books</li>
     <li>🔒 <b>Website Security Analyzer:</b> Tool to identify and patch vulnerabilities</li>
   </ul>
