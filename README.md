@@ -9,7 +9,7 @@
 
 ### 🌟 About Me  
 - 🎓 **BTech Student** in Computer Science and Business Systems  
-- 🔭 Currently working on a **research paper exploring AI and finance**  
+- 🔭 Currently working on a **research paper exploring GEN AI with LLM**  
 - 🌱 Learning **AI in-depth** to master **Python and Machine Learning**  
 - 🔐 Google-certified in **Cybersecurity Fundamentals**  
 - 📈 Passionate about **finance and stock trading**  
@@ -29,7 +29,12 @@
 ---
 
 ### 🏆 Achievements  
-- 📝 Working on a **research paper on AI in Finance**  
+- Shortlisted among the top 45 teams in **Hack Heritage '24**.
+- Ranked within the top 30 teams in **Playtopia '24** by IEM Group.
+- Research paper on **AI and Finance** and **visual search** published .
+- Qualified for the final round of **Prodxcelerate '24 by BITS Pilani**.
+- Achieved one of the highest scores in **Beat the Street '23**, a trading game by IIM Mumbai.
+- Won **20+ medals** in SOF and Silverzone Olympiads during school years. 
 - 📊 Developed **AI-driven tools** for career counseling and security analysis  
 - 📚 Built a **BookHub app** for organizing and sharing books  
 - 🏅 Google-certified in **Cybersecurity Fundamentals**
