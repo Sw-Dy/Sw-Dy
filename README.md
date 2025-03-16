@@ -96,13 +96,14 @@
 
 ---
 
-<h2 align="center">🌱 Goals for 2024</h2>
+<h2 align="center">🌱 Goals for 2025</h2>
 <div align="center">
   <ul>
-    <li>🚀 Complete my **research paper on AI in Finance**</li>
+    <li>🚀 Complete my **research paper on Gen AI with LLM**</li>
     <li>🎯 Master advanced concepts in **AI and Machine Learning**</li>
     <li>📈 Build innovative solutions at the **intersection of AI and finance**</li>
     <li>🌟 Contribute to **open-source projects** in Machine Learning</li>
+    <li>🌟 Do **interships** in esteemed organisations</li>
   </ul>
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300">
 </div>
