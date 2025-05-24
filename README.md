@@ -29,6 +29,8 @@
 ---
 
 ### 🏆 Achievements  
+- Published 2 research papers on Stock Market Prediction and Pinterest Visual Search in recognized academic forums. 
+- Finalist (Top 5 out of 100+ teams) in ACM coding competition at Calcutta University. 
 - Shortlisted among the top 45 teams in **Hack Heritage '24**.
 - Ranked within the top 30 teams in **Playtopia '24** by IEM Group.
 - Research paper on **AI and Finance** and **visual search** published .
@@ -37,7 +39,8 @@
 - Won **20+ medals** in SOF and Silverzone Olympiads during school years. 
 - 📊 Developed **AI-driven tools** for career counseling and security analysis  
 - 📚 Built a **BookHub app** for organizing and sharing books  
-- 🏅 Google-certified in **Cybersecurity Fundamentals**
+-  Awarded **"Intern of the Week"** during a social impact internship at **Green Bhumi**. 
+-  Certified in **Google Cybersecurity**, **Machine Learning**, and **Premiership in Business Management by the Indian Council for Technical Research and Development (ICTRD)**. 
 
 ---
 
